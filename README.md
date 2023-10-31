@@ -4,4 +4,6 @@ This repository is a collection of all the files, resources, notes, and code tha
 
 ### Learning Sources:
 - ZTM Academy's Udemy course - [Complete Machine Learning and Data Science Bootcamp](https://www.udemy.com/share/102vAM3@H5XRhtNJEcNlmDd10XB9mogV4-FFZJsoDWEZNIZC7rUdFEP3KAdlC4NqkcHDJz8a/).
-- Codecademy Course - [Learn Data Analysis with Pandas](https://www.codecademy.com/enrolled/courses/data-processing-pandas)
+- Codecademy Courses
+  - [Learn Data Analysis with Pandas](https://www.codecademy.com/enrolled/courses/data-processing-pandas) 
+  - [Learn statistics with python](https://www.codecademy.com/enrolled/courses/learn-statistics-with-python)
