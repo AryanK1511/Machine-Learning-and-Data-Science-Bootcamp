@@ -7,3 +7,4 @@ This repository is a collection of all the files, resources, notes, and code tha
 - Codecademy Courses
   - [Learn Data Analysis with Pandas](https://www.codecademy.com/enrolled/courses/data-processing-pandas) 
   - [Learn statistics with python](https://www.codecademy.com/enrolled/courses/learn-statistics-with-python)
+  - [Intro to Data Visualization with Python](https://www.codecademy.com/learn/intro-to-data-visualization-with-python)
